@@ -1,0 +1,415 @@
+{
+  "currency": "SAR",
+  "login": {
+    "title": "Enter your mobile number to access the dashboard",
+    "label": "Enter the mobile phone number",
+    "placeholder": "Phone is required",
+    "btn": "Sign in",
+    "modal_title": "Enter the code sent to your mobile number",
+    "hint": "We have sent a message to the number",
+    "modal_btn": "Verification",
+    "modal_msg": "If you haven't received the verification code, you can",
+    "re_btn": "Resend the code",
+    "back_btn": "back to",
+    "back_btn2": "home page"
+  },
+  "report": {
+    "title": "Submit a complaint",
+    "label": "Reason for complaint",
+    "placeholder": "Enter the complaint",
+    "btn": "Submission",
+    "bt2": "cancel"
+  },
+  "nav": {
+    "navlinks": {
+      "home_page": "home",
+      "advertisements": "all advertisements",
+      "special_advertisements": "special advertisements",
+      "about_us": "about us",
+      "contact_us": "contact us"
+    },
+    "buttons": {
+      "add_advertisement": " advertisement",
+      "login_btn": "sign in"
+    }
+  },
+  "subnav": {
+    "city_filter": "choose a city",
+    "neighborhood_filter": "choose a neighborhood",
+    "property_filter": "choose a type",
+    "price": "price",
+    "price_choose_option": "choose",
+    "All": "All"
+  },
+  "loginmodal": {
+    "title": "welcome!",
+    "title_two": "Please enter the code to continue",
+    "desc": "Enter your mobile phone number to create an account or login.",
+    "input_label": "Your mobile phone number",
+    "submit_btn": "continue",
+    "submit_btn_2": "check",
+    "hint": "We will send a message to the entered Number containing a code to continue...",
+    "bold_hint": "Make sure you entered your number correctly.",
+    "back_btn": "back",
+    "seconds": "second",
+    "message": "Send the verification code again",
+    "sended_message": "We sent the code by message to the number",
+    "error_message": "The verification code is incorrect. Please try again."
+  },
+  "notifications": {
+    "title": "notifications"
+  },
+  "profile_menu": {
+    "profile_btn": "my profile",
+    "favourite_btn": "my favourites",
+    "add_property_btn": "add new property",
+    "contact_us_btn": "contact us",
+    "logout_btn": "sign out"
+  },
+  "messages_header": {
+    "title": "all messages"
+  },
+  "footer": {
+    "first_list": {
+      "brand_name": " aqartik",
+      "about": "who we are"
+    },
+    "second_list": {
+      "support": "support",
+      "contact_us": "contact us",
+      "frequently_asked_questions": "frequently asked questions"
+    },
+    "third_list": {
+      "legal_matters": "legal matters",
+      "terms_and_conditions": "terms and conditions",
+      "privacy_policy": "privacy policy"
+    },
+    "download_btn": "download now",
+    "contact_phone": "call us",
+    "copy_right": "All rights reserved to aqartik website",
+    "customer_service": "customer service",
+    "time": "From  09:30 morning  to  01:00 night"
+  },
+  "homepage": {
+    "hero_section": {
+      "sec1": {
+        "title": "A summer without heat",
+        "desc": "Search and browse more than 26 thousand units in more than 180 cities and provinces and live the housing experience",
+        "button": "Browse holiday homes in Mecca"
+      },
+      "sec2": {
+        "title": "Live the experience at aqartik",
+        "desc": "We offer you many options to get daily, weekly or monthly bookings covering all regions to live a unique experience ",
+        "button": "Browse holiday homes in Al Suda"
+      },
+      "sec3": {
+        "title": "title 3",
+        "desc": "We offer you many options to get daily, weekly or monthly bookings covering all regions to live a unique experience",
+        "button": "Browse holiday homes in Riyadh"
+      }
+    },
+    "titles": {
+      "title1": "populer cities",
+      "title2": "populer propeties"
+    }
+  },
+  "filtersTab": {
+    "default_btn": "default",
+    "Closest_btn": "closest to my location",
+    "top_rated": "Top rated",
+    "top_viewings": "Top viewings",
+    "lowest_price": "lowest price",
+    "highest_price": "highest price"
+  },
+  "advertisements_page": {
+    "sec1": {
+      "map_button": "go to map"
+    },
+    "filter_sec": {
+      "title": "filter",
+      "delete_button": "delete all",
+      "filter1": "advanced search",
+      "filter2": "price",
+      "filter3": "property type",
+      "filter4": "Facilities and additions",
+      "filter5": "Property details",
+      "filter1_info": {
+        "input1": "Search by property name",
+        "placeholder1": "ex: happiness chalets",
+        "input2": "Area",
+        "input3": "floor",
+        "input4": "city",
+        "placeholder4": "ex: al-remal",
+        "input5": "neighborhood",
+        "placeholder5": "ex: Riyadh",
+        "input6": "Directions",
+        "placeholder6": "ex: Western"
+      },
+      "rooms_filter": {
+        "label1": "Bedrooms",
+        "label2": "Living rooms",
+        "label3": "Number of kitchens",
+        "label4": "Number of bathrooms"
+      }
+    }
+  },
+  "details_page": {
+    "ad_num": "advertisement number",
+    "ad_date": "advertisement date",
+    "unit_area": "Unit area",
+    "fav_button": "add to favourite",
+    "share_button": "share",
+    "facebook_share": "share to facebook",
+    "twitter_share": "share to twitter",
+    "copy_url": "copy to clipboard",
+    "images_btns": {
+      "show_more": "show all images",
+      "show_vids": "show video"
+    },
+    "details_title": "Description",
+    "similer_sec_title": "similer advertisements",
+    "xs_more": "show more",
+    "xs_less": "show less",
+    "details_tabs": {
+      "specifications_and_features": " features",
+      "location_and_map": "location and map",
+      "guest_reviews": "guest reviews",
+      "specifications_and_features_tab": {
+        "bedrooms": "bedrooms",
+        "living_rooms": "living rooms",
+        "bathrooms_nums": "number of bathrooms",
+        "area": "area",
+        "floor": "floor",
+        "last_update": "last update"
+      },
+      "location_and_map_tab": {
+        "desc": "The exact location information appears after booking confirmation"
+      },
+      "guest_reviews_tab": {
+        "comment_title": "leave a comment",
+        "comment_desc": "The email will not be published specific required fields",
+        "placeholder1": "comment title",
+        "placeholder2": "comment...",
+        "comment_btn": "send comment",
+        "review_title": "give a review"
+      }
+    },
+    "details_card": {
+      "currency": "SAR",
+      "advertiser_name": "advertisername",
+      "advertiser_broker": "advertiser broker",
+      "ad_reference_number": "advertisement reference number",
+      "whatsapp_button": "whatsapp",
+      "phone_button": "call",
+      "report_button": "report",
+      "chat_button": "chat"
+    },
+    "time": {
+      "one_hour_ago": "1 hour ago",
+      "two_hours_ago": "2 hours ago",
+      "hours_ago": "{{count}} hours ago",
+      "minutes_ago": "{{count}} minute ago",
+      "days_ago": " {{count}} days ago",
+
+      "seconds_ago": " {{count}} secound ago",
+      "just_now": "now"
+    }
+  },
+  "user_dashboard": {
+    "top_nav": {
+      "title1": "dashboard",
+      "title2": "sign out"
+    },
+    "sidebar": {
+      "add_new_button": "add advertisement",
+      "ul_button1": "profile",
+      "ul_button2": "my advertisement",
+      "ul_button3": "requests",
+      "ul_button4": "special advertisement",
+      "ul_button5": "users manage",
+      "ul_button6": "Subscription details",
+      "button3_btn1": "new requests",
+      "button3_btn2": "Outgoing requests",
+      "button3_btn3": "Incoming requests"
+    },
+    "personal_info": {
+      "img_btn": "add picture",
+      "title1": "Upload logo image",
+      "hint1": "The logo image does not exceed 2MB",
+      "label2": "username",
+      "label3": "company name",
+      "label4": "office name",
+      "label5": "email",
+      "label6": "national ID",
+      "label7": "phone number",
+      "label8": "Introduction",
+      "label9": "Type of membership",
+      "license": "Do you have a license to practice brokerage and real estate marketing",
+      "license_btn1": "yes",
+      "license_btn2": "no",
+      "license_modal_title": "Add license link",
+      "license_modal_desc": "Would you like to register with the public authority for real estate to obtain a license Real estate brokerage and marketing",
+      "license_modal_btn1": "Agree",
+      "license_modal_btn2": "later",
+      "main_btn": "Save and continue"
+    },
+    "incoming_orders": {
+      "page_title": "advertisements",
+      "page_title2": "incoming requests",
+      "ad_expanded": {
+        "one": "Preview",
+        "two": "Not shown"
+      },
+      "card1": {
+        "title": "property information",
+        "label1": "name",
+        "label2": "Classification",
+        "label3": "Property link"
+      },
+      "card2": {
+        "title": "Property address",
+        "label1": "city",
+        "label2": "neighborhood",
+        "label3": "direction"
+      },
+      "card3": {
+        "title": "Property display status",
+        "label1": "status"
+      },
+      "card4": {
+        "title": "Location on the map"
+      },
+      "card5": {
+        "title": "Property description"
+      }
+    },
+    "new_order": {
+      "main_btn1": "next",
+      "main_btn2": "Previous",
+      "main_btn3": "done",
+      "order_info": {
+        "main_title": " information",
+        "title": "Property classification",
+        "desc": "Select the appropriate classification",
+        "label1": "property name",
+        "placeholder1": "Enter the name of your property, which will be shown to guests"
+      }
+    },
+    "order_details": {
+      "title": "property details",
+      "label1": "price",
+      "hint1": "in SAR",
+      "placeholder1": "Please write the price ",
+      "label2": "area",
+      "hint2": "Square meters",
+      "placeholder2": "Please type the area ",
+      "label3": "Width ",
+      "hint3": "in meters",
+      "placeholder3": "Please write the width ",
+      "label4": "height ",
+      "hint4": "in meters",
+      "placeholder4": "Please write the height ",
+      "title2": "Advertiser relationship",
+      "option1": "owner",
+      "option2": "Agent",
+      "option3": "Marketer",
+      "option3_opt1": "Exclusive",
+      "option3_opt2": "not Exclusive"
+    },
+    "property_features": {
+      "title": "Property features",
+      "title2": "Choose all the facilities in your property",
+      "label1": "lounges numbers",
+      "label2": "rooms numbers",
+      "label3": "bathrooms numbers",
+      "label4": "kitchens numbers"
+    },
+    "property_location": {
+      "title": "Confirm the property address",
+      "hint": "Choose the direction of the neighborhood in the city",
+      "label1": "city",
+      "label2": "neighborhood",
+      "label3": "direction",
+      "label4": "property type"
+    },
+    "property_desc": {
+      "title": "Property description",
+      "hint": "Add a distinctive description of your property and what the guest expects to find in it",
+      "desc": "73% of premium hosts (who have high bookings and sales) write a distinctive and clear description",
+      "label": " Write a distinctive description of your property",
+      "placeholder": "Write here",
+      "ex_btn": "sample",
+      "ex_title": "A distinctive description of your property",
+      "ex_desc": "It is located in the north of Riyadh, overlooking Riyadh Boulevard, close to Turki First Street. Designed in comfortable colors, furnished with modern furniture. There is an 85-inch screen and an Intersport subscription to follow matches. It is characterized by its spacious area and complete privacy with smart entry. I wish you a happy stay and God bless my guest."
+    },
+    "property_location_map": {
+      "title": "Property address",
+      "desc": "please make sure to select the correct location of your property"
+    },
+    "property_images": {
+      "title": "Property photos",
+      "desc1": "So you can successfully display your property",
+      "desc2": "Add at least 4 clear and attractive photos to the unit",
+      "desc3": "It is forbidden to put a logo or words on the photo",
+      "label1": "video",
+      "label2": "Main display image",
+      "hint1": "A photo is required",
+      "label3": "Property photos",
+      "hint2": "8 photos are required",
+      "btn1": "add video",
+      "btn2": "add image",
+      "btn3": "add images",
+      "edit_btn": "edit main display image",
+      "cut_btn": "cut and save"
+    },
+    "outgoing_requests": {
+      "title": "outgoing requests",
+      "submit_btn": "Save edits",
+      "cancel_btn": "cancel",
+      "edit_btn": "edit",
+      "state_btn": "change",
+      "change_status_title": "confirm",
+      "change_status_desc": "Please review the following data of the property before viewing it (prices, availability, photos, location, facilities, booking conditions) as the correctness of this information is entirely under your responsibility and will be visible to customers .To make reservations and will rely on",
+      "change_status_confirm_msg": "Are you sure about the offer of the property?",
+      "change_status_confirm_btn": "View the property",
+      "change_status_cancel_btn": "Review the data first",
+      "units": "Units of this property"
+    },
+    "users_manage": {
+      "title": "users management",
+      "label": "search by phone number",
+      "button": "Check",
+      "title2": "user information",
+      "title3": "users",
+      "user_info": {
+        "name": "username",
+        "phonenumber": "phone number"
+      },
+      "cancel_btn": "cancel",
+      "add_btn": "add",
+      "yes_btn": "yes",
+      "delete_btn": "delete",
+      "add_confirm_title": "Are you sure about adding the user?",
+      "delete_confirm_title": "Are you sure about deleting the user?"
+    },
+    "sub_page": {
+      "title": "Subscription details",
+      "label1": "Invoice number",
+      "label2": "Name of membership",
+      "label3": "Number of ads",
+      "label4": "Number of temporary upgrade times",
+      "label5": "Subscription start date",
+      "label6": "Subscription end date",
+      "label7": "Print subscription details"
+    }
+  },
+  "offices": {
+    "title": "all offices",
+    "label": "search by cities",
+    "placeholder": "enter city name",
+    "btn": "search",
+    "office": "office",
+    "review": "reviews",
+    "main_btn": "show office"
+  }
+}

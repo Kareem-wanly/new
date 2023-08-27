@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="112" viewBox="0 0 375 112">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Search_Frame" data-name="Search Frame" class="cls-1" d="M72,112q-38.426,0-48.789-37.548L23,73.69A23.8,23.8,0,0,0,.38,56L0,56V0H375V56a23.8,23.8,0,0,0-22.9,17.323l-.1.367Q341.814,112,303,112Z" transform="translate(0 0)"/>
+</svg>

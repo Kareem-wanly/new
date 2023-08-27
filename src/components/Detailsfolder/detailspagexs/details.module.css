@@ -1,0 +1,41 @@
+.details_container {
+  height: 310px !important;
+  width: 100%;
+  position: relative;
+}
+
+.imgSlider {
+  overflow: hidden;
+  height: 310px;
+  width: 100%;
+  object-fit: cover;
+  background-color: rgb(243, 243, 243);
+}
+
+.details_pagination {
+  position: absolute;
+  bottom: 40px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 99;
+}
+
+/* Custom styles for the pagination bullets */
+.details_pagination_bullet {
+  width: 6px;
+  height: 6px;
+  background-color: rgba(255, 255, 255, 0.48);
+  border-radius: 50%;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.details_pagination_bullet_active {
+  background-color: white;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-left: 8px;
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="22.296" viewBox="0 0 26 22.296">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #14b183;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.9px;
+      }
+
+      .cls-2 {
+        fill: #14b183;
+      }
+    </style>
+  </defs>
+  <g id="Farms" transform="translate(-1 -3)">
+    <g id="Farms-2" data-name="Farms" transform="translate(1 3)">
+      <path id="Path_9" data-name="Path 9" class="cls-1" d="M0,0,14,8" transform="translate(6 13)"/>
+      <path id="Path_9_Copy" data-name="Path 9 Copy" class="cls-1" d="M0,0-14,8" transform="translate(20 13)"/>
+      <path id="Combined_Shape" data-name="Combined Shape" class="cls-2" d="M24,22H20V12H6V22H2V12H1a1,1,0,0,1-.871-1.486l.045-.078,3.9-6.812a.994.994,0,0,1,.658-.586L12.609.08l.073-.027.007,0A1.062,1.062,0,0,1,13,0a1.014,1.014,0,0,1,.311.05c.032.011.064.023.094.035l7.863,2.952a1.006,1.006,0,0,1,.656.581l3.908,6.828c.014.022.027.044.04.067A1,1,0,0,1,25,12H24V22ZM11,5V8h4V5Z"/>
+    </g>
+  </g>
+</svg>

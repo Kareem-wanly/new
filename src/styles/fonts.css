@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "Tajawl";
+  src: url("../public/fonts/Tajawal-Medium.ttf") format("ttf"),
+    url("../public//fonts/Tajawal-Bold.ttf") format("tff");
+}

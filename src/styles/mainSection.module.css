@@ -1,0 +1,27 @@
+.divSlider {
+  text-align: center;
+  background-color: #695697b8;
+  border-radius: 25px;
+  padding: 2rem;
+  color: white;
+  position: absolute;
+  top: 4rem;
+  z-index: 2;
+  right: 3%;
+  max-width: 50%;
+  text-align: right;
+}
+
+@media screen and (max-width: 800px) {
+  .divSlider {
+    text-align: center;
+    max-width: 80%;
+    top: 11rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 95%;
+    max-width: 95%;
+    padding: 2rem 1rem;
+    right: auto;
+  }
+}

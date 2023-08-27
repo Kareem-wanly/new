@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" id="favicon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <!-- <title>Aqar tech</title> -->
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+      // Fetch favicon and apple touch icon URLs from API
+      fetch("https://www.dashboard.aqartik.com/api/settings/genral")
+        .then((response) => response.json())
+        .then((data) => {
+          const baseUrl = "https://www.dashboard.aqartik.com";
+          const faviconUrl =
+            baseUrl + "/uploads/settings/" + data?.settings?.style_fav;
+          const faviconLink = document.getElementById("favicon");
+          const appleTouchIconLink =
+            document.getElementById("apple-touch-icon");
+          faviconLink.href = faviconUrl;
+          appleTouchIconLink.href = appleTouchIconUrl;
+        })
+        .catch((error) => {
+          console.error("Error fetching icons from API:", error);
+        });
+    </script>
+  </body>
+</html>

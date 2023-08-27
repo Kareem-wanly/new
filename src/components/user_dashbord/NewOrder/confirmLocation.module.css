@@ -1,0 +1,23 @@
+.selectIcon {
+  right: 91% !important;
+}
+
+.selectedMenuItem {
+  background-color: #b1f5e1 !important;
+}
+
+.selectedMenuItem:hover {
+  background-color: #b1f5e1 !important;
+}
+
+.tooltipCustomStyle {
+  background-color: red !important;
+  box-shadow: none !important;
+  /* Additional styles if needed */
+}
+.css-6hp17o-MuiList-root-MuiMenu-list {
+  height: 150px !important;
+}
+.menuList {
+  height: 150px !important;
+}

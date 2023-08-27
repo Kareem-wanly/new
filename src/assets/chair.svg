@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="21" viewBox="0 0 24 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #14b183;
+      }
+
+      .cls-2 {
+        fill: #14b183;
+      }
+    </style>
+  </defs>
+  <g id="Villas_and_Apartments" data-name="Villas and Apartments" transform="translate(-2 -4)">
+    <g id="Villas_and_Apartments-2" data-name="Villas and Apartments" transform="translate(2 4)">
+      <path id="Path" class="cls-1" d="M10,0A5.151,5.151,0,0,0,6.008,1.846H4A3.856,3.856,0,0,0,0,5.538V7.385a3.856,3.856,0,0,1,4,3.692V12H16v-.923a3.856,3.856,0,0,1,4-3.692V5.538a3.856,3.856,0,0,0-4-3.692H13.992A5.151,5.151,0,0,0,10,0Z" transform="translate(2)"/>
+      <path id="Path-2" data-name="Path" class="cls-2" d="M1.846,0A1.845,1.845,0,0,0,.923,3.443V6.461A3.688,3.688,0,0,0,3.254,9.887l-.388.777a.923.923,0,1,0,1.651.826l.667-1.336h13.63l.667,1.336a.923.923,0,1,0,1.651-.826l-.388-.777a3.688,3.688,0,0,0,2.331-3.425V3.442A1.844,1.844,0,0,0,22.154,0h-.923a1.846,1.846,0,0,0-1.846,1.846V4.615H4.615V1.846A1.846,1.846,0,0,0,2.769,0Z" transform="translate(0 9)"/>
+    </g>
+  </g>
+</svg>

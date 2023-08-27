@@ -1,0 +1,18 @@
+.lg-outer .lg-item,
+.lg-outer .lg-img-wrap {
+  left: 0;
+}
+
+.lg-outer.lg-grab img.lg-object {
+  width: 40%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 1000px) {
+  .lg-outer.lg-grab img.lg-object {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+}

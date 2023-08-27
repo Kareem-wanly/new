@@ -1,0 +1,80 @@
+.customSlide {
+  width: 300px !important;
+  height: 219px !important;
+}
+
+@media only screen and (max-width: 900px) {
+  .customSlide {
+    width: 100% !important;
+    height: 219px !important;
+  }
+}
+
+.imageBorder {
+  border-radius: 16px !important;
+  width: 100%;
+  height: 219px;
+}
+
+/* Slider container styles */
+.custom_dots {
+  /* Custom dot styles */
+  border-radius: 50%;
+  position: absolute;
+  width: 100%;
+  display: flex;
+  -moz-box-align: center;
+  align-items: center;
+  -moz-box-pack: center;
+  justify-content: center;
+  z-index: 1;
+  margin: 0 5px;
+  width: 8px !important;
+  height: 8px !important;
+  background-color: rgba(255, 255, 255, 0.48) !important;
+  border-radius: 50% !important;
+  border: 1px solid rgba(0, 0, 0, 0.32) !important;
+  bottom: 3rem !important;
+}
+
+.active_dot {
+  background-color: rgb(255, 255, 255) !important;
+}
+
+.custom_prevv_button {
+  position: absolute;
+  left: 12px;
+  z-index: 10;
+  background-color: rgba(255, 255, 255, 0.76);
+  border: 0.5px solid rgba(255, 255, 255, 0.32);
+  border-radius: 50%;
+  display: flex;
+  -moz-box-pack: center;
+  justify-content: center;
+  -moz-box-align: center;
+  align-items: center;
+  width: 32px !important;
+  height: 32px !important;
+  cursor: pointer;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.custom_nextt_button {
+  position: absolute;
+  right: 12px;
+  z-index: 1;
+  background-color: rgba(255, 255, 255, 0.76);
+  border: 0.5px solid rgba(255, 255, 255, 0.32);
+  border-radius: 50%;
+  display: flex;
+  -moz-box-pack: center;
+  justify-content: center;
+  -moz-box-align: center;
+  align-items: center;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  top: 50%;
+  transform: translateY(-50%);
+}

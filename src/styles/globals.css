@@ -1,0 +1,8 @@
+@import "./fonts.css";
+:root {
+  --orange-color: #ec9b1e;
+  --purble-color: #695697;
+  --green-color: #14b183;
+  direction: rtl;
+  text-align: right;
+}
